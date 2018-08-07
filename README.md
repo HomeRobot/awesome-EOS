@@ -97,6 +97,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Scatter](https://scatter-eos.com) - Chrome extension wallet.
 - [MetaMask](https://metamask.io/) - Chrome extension wallet.
 - [EOSWallet](https://github.com/EOSEssentials/EOSWallet) - Open source wallet by EOSEssentials.
+- [OWL EOS Wallet](https://chrome.google.com/webstore/detail/owl-eos-wallet-plugin/pibpgobjoeapiccleelidkaeeiodjlfg) - Chrome extension multiaccount wallet.
 
 ### Shell Tools
 
